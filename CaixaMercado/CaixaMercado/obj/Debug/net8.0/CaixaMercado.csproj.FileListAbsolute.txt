@@ -1,0 +1,14 @@
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\obj\Debug\net8.0\CaixaMercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\obj\Debug\net8.0\CaixaMercado.AssemblyInfoInputs.cache
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\obj\Debug\net8.0\CaixaMercado.AssemblyInfo.cs
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\obj\Debug\net8.0\CaixaMercado.csproj.CoreCompileInputs.cache
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\bin\Debug\net8.0\CaixaMercado.exe
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\bin\Debug\net8.0\CaixaMercado.deps.json
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\bin\Debug\net8.0\CaixaMercado.runtimeconfig.json
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\bin\Debug\net8.0\CaixaMercado.dll
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\bin\Debug\net8.0\CaixaMercado.pdb
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\obj\Debug\net8.0\CaixaMercado.dll
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\obj\Debug\net8.0\refint\CaixaMercado.dll
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\obj\Debug\net8.0\CaixaMercado.pdb
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\obj\Debug\net8.0\CaixaMercado.genruntimeconfig.cache
+C:\Users\muril\source\repos\CaixaMercado\CaixaMercado\obj\Debug\net8.0\ref\CaixaMercado.dll
